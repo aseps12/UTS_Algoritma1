@@ -50,11 +50,11 @@ int main()
 
 Berikut Hasilnya
 ```
-![img] (https://raw.githubusercontent.com/aseps12/UTS_Algoritma1/master/hasil_soal1.png)
+![img](https://raw.githubusercontent.com/aseps12/UTS_Algoritma1/master/hasil_soal1.png)
 ```
 
 *soal1#Menentukan nilai perbandingan dengan menginptkan NIM.
-
+```
 Alur algoritmanya
 	-mendeklrasikan int T,X,N,Batas
 	-mendeklrasikan variabel T,X sebagai penyimpan nilai
@@ -64,6 +64,7 @@ Alur algoritmanya
 		while ( T<= Batas)
 		T=N+X
 		X=X+10
+```
 
 Berikut kode lengkapnya.
 
@@ -92,6 +93,6 @@ int main()
 Berikut hasilnya
 
 ```
-![img] (https://raw.githubusercontent.com/aseps12/UTS_Algoritma1/master/hasil_soal2.png)
+![img](https://raw.githubusercontent.com/aseps12/UTS_Algoritma1/master/hasil_soal2.png)
 
 ```
