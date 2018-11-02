@@ -49,9 +49,9 @@ int main()
 ```
 
 Berikut Hasilnya
-```
+
 ![img](https://raw.githubusercontent.com/aseps12/UTS_Algoritma1/master/hasil_soal1.png)
-```
+
 
 *soal1#Menentukan nilai perbandingan dengan menginptkan NIM.
 ```
@@ -92,7 +92,7 @@ int main()
 
 Berikut hasilnya
 
-```
+
 ![img](https://raw.githubusercontent.com/aseps12/UTS_Algoritma1/master/hasil_soal2.png)
 
-```
+
